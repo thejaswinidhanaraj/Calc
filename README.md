@@ -90,7 +90,10 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 
-![WhatsApp Image 2024-04-17 at 12 54 34_069ba8a3](https://github.com/thejaswinidhanaraj/Calc/assets/148514511/d485a549-92e9-4343-9fe2-5f7c6a7f1b49)
+![Screenshot (23)](https://github.com/thejaswinidhanaraj/Calc/assets/148514511/77e0ed15-b763-4ce5-8988-b3f88e3dc2a7)
+
+![Screenshot (24)](https://github.com/thejaswinidhanaraj/Calc/assets/148514511/70d71947-4af0-480f-af06-ac34875e4c0b)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
